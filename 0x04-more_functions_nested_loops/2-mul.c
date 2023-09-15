@@ -3,7 +3,7 @@
  * mu1 - multiply 2int
  * @a: first int
  * @b: second int
- * Return: addiction of the multiplication
+ * Return: returns void
  */
 
 int mul(int a, int b)
