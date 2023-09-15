@@ -1,12 +1,13 @@
 #include "main.h"
 /**
- * mu1 - multiply 2int
- * @a: first int
- * @b: second int
+ * mul - multiplies two intergers
+ * @a: function parameter 1
+ * @b: function parameter 2
  * Return: returns void
  */
 
 int mul(int a, int b)
 {
 	return (a * b);
+
 }
