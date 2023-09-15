@@ -6,7 +6,7 @@
  * Return: addiction of the multiplication
  */
 
-int mu1(int a, int b)
+int mul(int a, int b)
 {
 	return (a * b);
 }
