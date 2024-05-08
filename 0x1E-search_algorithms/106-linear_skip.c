@@ -1,4 +1,4 @@
-nclude "search_algos.h"
+#include "search_algos.h"
 
 /**
  * linear_skip - Searches for an algorithm in a sorted singly
